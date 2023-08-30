@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Publications
-======
+
 ##### \* denotes equal contribution
 ***2023***
 * [Retrieving false claims on Twitter during the Russia-Ukraine conflict](https://arxiv.org/abs/2301.07966)  

@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Research Experience"
 permalink: /research_experience/
 author_profile: true
 ---
-Research Experience
-======
 
 ### [USC Viterbi School of Engineering](https://viterbischool.usc.edu)
 
