@@ -1,7 +1,20 @@
 # main links links
 main:
+
+  - title: "Research Experience"
+    url: /research_experience/
+
   - title: "Publications"
     url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
+  
+  - title: "CV"
+    url: /files/Chiyu_Wei_CV.pdf/
+    
+  # - title: "Guide"
+  #   url: /markdown/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -14,12 +27,3 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Projects"
-    url: /projects/
-
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
