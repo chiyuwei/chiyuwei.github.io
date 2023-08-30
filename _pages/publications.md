@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 * [Retrieving false claims on Twitter during the Russia-Ukraine conflict](https://arxiv.org/abs/2301.07966)  
-  **La Gatta\***, Valerio and Wei*, Chiyu and Luceri, Luca and Pierri, Francesco and Ferrara, Emilio  
+  Valerio La Gatta*, **Chiyu Wei\***, Luca Luceri, Francesco Pierri, Emilio Ferrara
   WWW'23 Companion: Companion Proceedings of the ACM Web Conference 2023
