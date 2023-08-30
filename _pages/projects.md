@@ -10,11 +10,9 @@ Projects
 - **Advised by**: Dr. Emilio Ferrara
 - **Duration**: 2023.08 - Present
 - **Details**:
-<p style="text-align:justify;">
   - This project aims to comprehensively explore the capabilities of Large Language Models (LLMs) in simulating human behaviors by providing them with a range of attributes, including ideology, politics, income, gender, age, and race.
   - To achieve this objective, a rigorous methodology involving controlled experiments will be implemented.
   - This project holds substantial significance in unraveling the intricacies of LLMs' ability to emulate human behaviors.
-</p>
 
 ### Multimodal Partisan Sentiment Framing in Inflation News Coverage
 - **Advised by**: Dr. Mohammad Soleymani and Dr. Meiqing Zhang

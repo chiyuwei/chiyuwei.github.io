@@ -11,7 +11,7 @@ main:
     url: /projects/
   
   - title: "CV"
-    url: /files/Chiyu_Wei_CV.pdf/
+    url: https://chiyuwei.github.io/files/Chiyu_Wei_CV.pdf/
     
   # - title: "Guide"
   #   url: /markdown/
