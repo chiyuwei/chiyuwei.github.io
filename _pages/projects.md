@@ -6,7 +6,7 @@ author_profile: true
 ---
 Projects
 ======
-## [Are Large Language Models Good at Simulating Human Samples?](#)
+## [Are Large Language Models Good at Simulating Human Samples? A Topic Study.](#)
 - **Advised by**: Dr. Emilio Ferrara
 - **Duration**: 2023.08 - Present
 - **Details**:
