@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Are Large Language Models Good at Simulating Human Samples? A Topic Study.
-- **Advised by**: Dr. Emilio Ferrara
+- **Advised by**: Dr. Emilio Ferrara and Dr. Luca Luceri
 - **Duration**: 2023.08 - Present
 - **Details**:
   - Initiate an in-depth exploration of the capabilities of Large Language Models (LLMs) to emulate human behaviors across various attributes such as ideology, politics, income, gender, age, and race, with a focus on identifying the most suitable topics for simulation.
