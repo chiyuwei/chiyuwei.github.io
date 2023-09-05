@@ -17,17 +17,17 @@ author_profile: true
 - **Advised by**: Dr. Mohammad Soleymani and Dr. Meiqing Zhang
 - **Duration**: 2023.05 - Present
 - **Details**:
-  - Embarked on a comprehensive examination of partisan biases in inflation news coverage across multimodal media channels. This research entailed a deep dive into how various media outlets, with different political leanings, chose to select and present information about inflation.
-  - Executed a detailed multimodal content analysis on a variety of sources, including newspaper editorials, cable television transcripts, and video clips from January 2020 to December 2022.
-  - Initial findings revealed significant differences in partisan emotion framing between television news and newspapers. The presence of stronger partisan cues leads to greater emotionality, and extremity, revealing the pivotal role emotion framing plays in shaping partisan narratives.
+  - Conduct a comprehensive study on inflation-related video content by leveraging both facial and text analysis. The aim is to unveil inherent network narratives and biases, highlighting the contrasting stances of major media outlets on the topic.
+  - Lead the implementation of video preprocessing techniques, specifically using Pyannote-video and OpenFace2. These tools enable accurate deciphering of facial expressions and their correlation with underlying media biases.
+  - Find that the sentiment derived from Action Units consistently aligns with results from text analysis, indicating biases in FOX News and MSNBC, while CNN maintains relative balance.
 
 ### Classification of Political Extremists and Moderate Users on Twitter
 - **Advised by**: Dr. Emilio Ferrara and Dr. Luca Luceri
 - **Duration**: 2023.03 - Present
 - **Details**:
-  - Pioneered a novel methodology, False-Supervised Learning, to accurately classify Twitter users based on their political leanings, distinguishing between extremist and moderate users.
-  - Through this innovative technique, extremist or moderate labels are attributed to users according to their ideological scores. A distinct BERT classification model is trained and fine-tuned for each proportion split using the labeled data.
-  - The model demonstrating superior precision in distinguishing between moderate and extremist ideologies is chosen as the optimal solution. This model will help define an ideological threshold, effectively categorizing users into the respective ideological categories.
+  - Introduced a pioneering methodology, False-Supervised Learning, aimed at  classifying Twitter users based on political leanings and distinguishing between extremist and moderate stances.
+  - Users are categorized as extremist or moderate using derived ideological scores. Transformer-based models are subsequently trained on various proportion splits of this labeled data.
+  - The most precise model in differentiating between moderate and extremist ideologies is selected as the optimal approach. This refined model provides a more apparent ideological threshold.
 
 ### Retrieving False Claims on Twitter during the Russia-Ukraine Conflict
 - **Advised by**: Dr. Emilio Ferrara and Dr. Luca Luceri
