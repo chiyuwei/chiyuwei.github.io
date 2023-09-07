@@ -19,7 +19,7 @@ author_profile: true
 - **Advisor:** Dr. Emilio Ferrara and Dr. Luca Luceri
   - False Claim Retrieval
   - Political Extremists Detection on Social Media
-  - Human simulation with large language models (LLMs)
+  - Human Simulation with Large Language Models (LLMs)
 
 ### [Wuhan University of Technology](http://english.whut.edu.cn)
 
