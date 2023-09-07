@@ -13,4 +13,4 @@ I am currently pursuing a Master’s degree in Computer Science at the [Thomas L
 
 Before joining USC, I earned my Bachelor's degree in Communication Engineering from [Wuhan University of Technology](http://english.whut.edu.cn), under the guidance of Dr. Daping He.
 
-I'm interested in **computational social science**, especially in leveraging **multimodal** techniques to detect and predict human behaviors on social media. Moving forward, I envision incorporating data from social media, economic metrics, and demographic information to delve deeper into the underlying factors contributing to the popularity of hot social issues and events.
+I am deeply interested in **computational social science**, particularly in utilizing **multimodal** techniques to analyze and forecast human behaviors on social media platforms. The potential positive impact of **Large Language Models** in the realm of social science also piques my interest. Looking ahead, I plan to integrate data from social media, economic indicators, and demographic metrics to gain a deeper understanding of the core factors driving the popularity of pressing social topics and events.
