@@ -9,14 +9,14 @@ author_profile: true
 
 - **Position:** Graduate Researcher
 - **Duration:** May 2023 - Present
-- **Advisor:** Dr. Mohammad Soleymani and Dr. Meiqing Zhang
+- **Advisor:** Dr. Mohammad Soleymani
   - Multimodal Partisan Sentiment Framing in Cable Media
 
 ### [USC Information Sciences Institute](http://www.emilio.ferrara.name)
 
 - **Position:** Graduate Researcher
 - **Duration:** June 2022 - Present
-- **Advisor:** Dr. Emilio Ferrara and Dr. Luca Luceri
+- **Advisor:** Dr. Emilio Ferrara
   - False Claim Retrieval
   - Political Extremists Detection on Social Media
   - Human Simulation with Large Language Models (LLMs)
