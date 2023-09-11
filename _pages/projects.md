@@ -9,8 +9,9 @@ author_profile: true
 - **Advised by**: Dr. Emilio Ferrara
 - **Duration**: 2023.08 - Present
 - **Details**:
-  - Initiate an in-depth exploration of the capabilities of Large Language Models (LLMs) to emulate human behaviors across various attributes such as ideology, politics, income, gender, age, and race, with a focus on identifying the most suitable topics for simulation.
-  - Employ a rigorous methodology involving controlled experiments to gauge the efficacy of LLMs in mimicking humans. Through fine-tuning, enhance the cross-question performance of LLMs.
+  - Initiate an in-depth exploration of the capabilities of Large Language Models (LLMs) to emulate human behaviors across attributes such as ideology, income, gender, age, and race. 
+  - Employ controlled experiments to evaluate the efficacy of LLMs in mimicking humans. 
+  - Through fine-tuning, strive to enhance the cross-survey performance of LLMs, aiming for a model that can better replicate human behavior.
 
 ### Multimodal Partisan Sentiment Framing in Inflation News Coverage
 - **Advised by**: Dr. Mohammad Soleymani
