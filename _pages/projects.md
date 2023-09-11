@@ -26,7 +26,7 @@ author_profile: true
 - **Duration**: 2023.03 - Present
 - **Details**:
   - Introduced a pioneering methodology, False-Supervised Learning, aimed at  classifying Twitter users based on political leanings and distinguishing between extremist and moderate stances.
-  - Users are categorized as extremist or moderate using derived ideological scores. Transformer-based models are subsequently trained on various proportion splits of this labeled data.
+  - Users are categorized as extremist or moderate using derived ideological scores. Transformer-based classifiers are subsequently trained on various proportion splits of this labeled data.
   - The most precise model in differentiating between moderate and extremist ideologies is selected as the optimal approach. This refined model provides a more apparent ideological threshold.
 
 ### Retrieving False Claims on Twitter during the Russia-Ukraine Conflict
