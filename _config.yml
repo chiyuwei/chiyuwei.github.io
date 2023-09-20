@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chiyu Wei (魏驰宇)"
+title                    : "Chiyu Wei"
 title_separator          : "-"
 name                     : &name "Chiyu Wei"
 description              : &description "Chiyu's Homepage"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chiyu Wei"
   avatar           : "prof_pic.jpg"
-  bio              : "Prospective PhD Student in Computer Science (Computational Social Science) - Fall 2024."
+  bio              : "Prospective Ph.D. Student in Computational Social Science related fields - Fall 2024."
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
