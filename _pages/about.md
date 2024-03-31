@@ -15,6 +15,4 @@ I am currently pursuing a Master’s degree in Computer Science at the [Thomas L
 
 Before joining USC, I earned my Bachelor's degree in Communication Engineering from [Wuhan University of Technology](http://english.whut.edu.cn) under the guidance of Dr. Daping He.
 
-I am deeply interested in **computational social science**, particularly in utilizing comprehensive social data and computational methods to study human social behaviors. My research goal is to 1) identify the weaknesses of current social relationships to help 2) build more robust interpersonal networks and 3) bridge the social divide. 
-
-I'm seeking Ph.D. opportunities in Computer Science, Information Science, Network Science, and related fields. If my research aligns with your interests, please contact me at chiyuwei@usc.edu.
+I am deeply interested in **computational social science**, particularly in utilizing comprehensive social data and computational methods to study human social behaviors. 
